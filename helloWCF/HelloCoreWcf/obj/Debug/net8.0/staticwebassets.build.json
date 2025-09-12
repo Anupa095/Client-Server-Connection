@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "crdskz7MJ3hlcETeu0ZilqGpRIQxGDVnQ3ZGtV0rlhw=",
+  "Source": "HelloCoreWcf",
+  "BasePath": "_content/HelloCoreWcf",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

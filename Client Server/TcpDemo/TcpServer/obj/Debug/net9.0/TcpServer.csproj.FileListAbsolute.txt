@@ -1,0 +1,14 @@
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\bin\Debug\net9.0\TcpServer.exe
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\bin\Debug\net9.0\TcpServer.deps.json
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\bin\Debug\net9.0\TcpServer.runtimeconfig.json
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\bin\Debug\net9.0\TcpServer.dll
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\bin\Debug\net9.0\TcpServer.pdb
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\obj\Debug\net9.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\obj\Debug\net9.0\TcpServer.AssemblyInfoInputs.cache
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\obj\Debug\net9.0\TcpServer.AssemblyInfo.cs
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\obj\Debug\net9.0\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\obj\Debug\net9.0\TcpServer.dll
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\obj\Debug\net9.0\refint\TcpServer.dll
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\obj\Debug\net9.0\TcpServer.pdb
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\obj\Debug\net9.0\TcpServer.genruntimeconfig.cache
+C:\Users\Anupa\Desktop\New folder\TcpDemo\TcpServer\obj\Debug\net9.0\ref\TcpServer.dll
