@@ -1,0 +1,14 @@
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\bin\Debug\net9.0\CalculatorClient.exe
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\bin\Debug\net9.0\CalculatorClient.deps.json
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\bin\Debug\net9.0\CalculatorClient.runtimeconfig.json
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\bin\Debug\net9.0\CalculatorClient.dll
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\bin\Debug\net9.0\CalculatorClient.pdb
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\obj\Debug\net9.0\CalculatorClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\obj\Debug\net9.0\CalculatorClient.AssemblyInfoInputs.cache
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\obj\Debug\net9.0\CalculatorClient.AssemblyInfo.cs
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\obj\Debug\net9.0\CalculatorClient.csproj.CoreCompileInputs.cache
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\obj\Debug\net9.0\CalculatorClient.dll
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\obj\Debug\net9.0\refint\CalculatorClient.dll
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\obj\Debug\net9.0\CalculatorClient.pdb
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\obj\Debug\net9.0\CalculatorClient.genruntimeconfig.cache
+C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\CalculatorClient\obj\Debug\net9.0\ref\CalculatorClient.dll
