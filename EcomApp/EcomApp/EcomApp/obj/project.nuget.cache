@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/28TZQQbSA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piumi\\source\\repos\\EcomApp\\EcomApp\\EcomApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piumi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\piumi\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

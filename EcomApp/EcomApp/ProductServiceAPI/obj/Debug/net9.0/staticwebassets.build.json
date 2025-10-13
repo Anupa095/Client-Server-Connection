@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BOab/OupvsYgnAIyrScUDFpQ6bqjqxRl5KdGsUX0hsE=",
+  "Source": "ProductServiceAPI",
+  "BasePath": "_content/ProductServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

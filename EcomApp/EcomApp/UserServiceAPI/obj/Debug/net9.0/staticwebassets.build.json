@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PwD+fibp8LBMhh67+UEEkiqIbYhIJhCS9DSYtTfFEyY=",
+  "Source": "UserServiceAPI",
+  "BasePath": "_content/UserServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
