@@ -1,0 +1,34 @@
+C:\Users\Asus\Desktop\Distributed Calculator\Shared\bin\Debug\net9.0\Shared.deps.json
+C:\Users\Asus\Desktop\Distributed Calculator\Shared\bin\Debug\net9.0\Shared.dll
+C:\Users\Asus\Desktop\Distributed Calculator\Shared\bin\Debug\net9.0\Shared.pdb
+C:\Users\Asus\Desktop\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.dll
+C:\Users\Asus\Desktop\Distributed Calculator\Shared\obj\Debug\net9.0\refint\Shared.dll
+C:\Users\Asus\Desktop\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.pdb
+C:\Users\Asus\Desktop\Distributed Calculator\Shared\obj\Debug\net9.0\ref\Shared.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\Shared\bin\Debug\net9.0\Shared.deps.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\Shared\bin\Debug\net9.0\Shared.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\Shared\bin\Debug\net9.0\Shared.pdb
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.AssemblyInfo.cs
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\Shared\obj\Debug\net9.0\refint\Shared.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.pdb
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\Shared\obj\Debug\net9.0\ref\Shared.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\Shared\bin\Debug\net9.0\Shared.deps.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\Shared\bin\Debug\net9.0\Shared.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\Shared\bin\Debug\net9.0\Shared.pdb
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.AssemblyInfo.cs
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.sourcelink.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\Shared\obj\Debug\net9.0\refint\Shared.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\Shared\obj\Debug\net9.0\Shared.pdb
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\Shared\obj\Debug\net9.0\ref\Shared.dll

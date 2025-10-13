@@ -1,0 +1,65 @@
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.exe
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.deps.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.runtimeconfig.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.pdb
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Shared.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Shared.pdb
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\Calculat.C5BD52FA.Up2Date
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\refint\CalculatorClient.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.pdb
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\ref\CalculatorClient.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.exe
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.deps.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.runtimeconfig.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.pdb
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Shared.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Shared.pdb
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.csproj.AssemblyReference.cache
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.AssemblyInfoInputs.cache
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.AssemblyInfo.cs
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.csproj.CoreCompileInputs.cache
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\Calculat.C5BD52FA.Up2Date
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\refint\CalculatorClient.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.pdb
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.genruntimeconfig.cache
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\ref\CalculatorClient.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.exe
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.deps.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.runtimeconfig.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\CalculatorClient.pdb
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Shared.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\bin\Debug\net9.0\Shared.pdb
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.csproj.AssemblyReference.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.AssemblyInfoInputs.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.AssemblyInfo.cs
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.csproj.CoreCompileInputs.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.sourcelink.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\Calculat.C5BD52FA.Up2Date
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\refint\CalculatorClient.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.pdb
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\CalculatorClient.genruntimeconfig.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\CalculatorClient\obj\Debug\net9.0\ref\CalculatorClient.dll
