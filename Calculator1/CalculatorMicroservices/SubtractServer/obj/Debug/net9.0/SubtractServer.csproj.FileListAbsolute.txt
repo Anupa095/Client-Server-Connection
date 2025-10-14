@@ -25,3 +25,32 @@ C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\SubtractServer\obj\De
 C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\SubtractServer.pdb
 C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\SubtractServer.genruntimeconfig.cache
 C:\Users\Anupa\Desktop\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\ref\SubtractServer.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\bin\Debug\net9.0\appsettings.json
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\bin\Debug\net9.0\SubtractServer.staticwebassets.endpoints.json
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\bin\Debug\net9.0\SubtractServer.exe
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\bin\Debug\net9.0\SubtractServer.deps.json
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\bin\Debug\net9.0\SubtractServer.runtimeconfig.json
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\bin\Debug\net9.0\SubtractServer.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\bin\Debug\net9.0\SubtractServer.pdb
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\SubtractServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\SubtractServer.AssemblyInfoInputs.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\SubtractServer.AssemblyInfo.cs
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\SubtractServer.csproj.CoreCompileInputs.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\SubtractServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\SubtractServer.sourcelink.json
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\scopedcss\bundle\SubtractServer.styles.css
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\SubtractServer.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\refint\SubtractServer.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\SubtractServer.pdb
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\SubtractServer.genruntimeconfig.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Calculator1\CalculatorMicroservices\SubtractServer\obj\Debug\net9.0\ref\SubtractServer.dll

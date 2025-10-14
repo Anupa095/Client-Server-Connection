@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anupa\\Desktop\\Calculator1\\CalculatorMicroservices\\CalculatorClient\\CalculatorClient.csproj": {}
+    "C:\\Users\\Anupa\\Desktop\\Client Server Connection\\Calculator1\\CalculatorMicroservices\\CalculatorClient\\CalculatorClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anupa\\Desktop\\Calculator1\\CalculatorMicroservices\\CalculatorClient\\CalculatorClient.csproj": {
+    "C:\\Users\\Anupa\\Desktop\\Client Server Connection\\Calculator1\\CalculatorMicroservices\\CalculatorClient\\CalculatorClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anupa\\Desktop\\Calculator1\\CalculatorMicroservices\\CalculatorClient\\CalculatorClient.csproj",
+        "projectUniqueName": "C:\\Users\\Anupa\\Desktop\\Client Server Connection\\Calculator1\\CalculatorMicroservices\\CalculatorClient\\CalculatorClient.csproj",
         "projectName": "CalculatorClient",
-        "projectPath": "C:\\Users\\Anupa\\Desktop\\Calculator1\\CalculatorMicroservices\\CalculatorClient\\CalculatorClient.csproj",
+        "projectPath": "C:\\Users\\Anupa\\Desktop\\Client Server Connection\\Calculator1\\CalculatorMicroservices\\CalculatorClient\\CalculatorClient.csproj",
         "packagesPath": "C:\\Users\\Anupa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anupa\\Desktop\\Calculator1\\CalculatorMicroservices\\CalculatorClient\\obj\\",
+        "outputPath": "C:\\Users\\Anupa\\Desktop\\Client Server Connection\\Calculator1\\CalculatorMicroservices\\CalculatorClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

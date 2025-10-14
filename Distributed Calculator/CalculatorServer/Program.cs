@@ -2,49 +2,39 @@ using CalculatorServer.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Server.Kestrel.Core;
+using Microsoft.Extensions.Hosting;
+using System.Threading.Tasks;
 
-var builder = WebApplication.CreateBuilder(args);
-
-// Add gRPC
-builder.Services.AddGrpc();
-
-// Configure Kestrel to support HTTP/2 (required for gRPC)
-builder.WebHost.ConfigureKestrel(options =>
+class Program
 {
-    options.ListenLocalhost(5001, o => o.Protocols = HttpProtocols.Http2); // default
-    options.ListenLocalhost(5002, o => o.Protocols = HttpProtocols.Http2);
-    options.ListenLocalhost(5003, o => o.Protocols = HttpProtocols.Http2);
-});
+    static async Task Main(string[] args)
+    {
+        var ports = new[] { 5001, 5002, 5003 };
+        var tasks = new List<Task>();
 
-var app = builder.Build();
-app.MapGrpcService<CalculatorService>();
-app.MapGet("/", () => "Use a gRPC client to communicate with CalculatorService.");
+        foreach (var port in ports)
+        {
+            tasks.Add(Task.Run(() =>
+            {
+                var builder = WebApplication.CreateBuilder();
 
-// Ask user which port to use
-Console.WriteLine("Select server port:");
-Console.WriteLine("1. 5001");
-Console.WriteLine("2. 5002");
-Console.WriteLine("3. 5003");
-Console.Write("Enter choice (1-3): ");
+                builder.Services.AddGrpc();
+                builder.WebHost.ConfigureKestrel(options =>
+                {
+                    options.ListenLocalhost(port, o => o.Protocols = HttpProtocols.Http2);
+                });
 
-int choice;
-while (!int.TryParse(Console.ReadLine(), out choice) || choice < 1 || choice > 3)
-{
-    Console.Write("Invalid choice. Enter 1, 2, or 3: ");
+                var app = builder.Build();
+                app.MapGrpcService<CalculatorService>();
+                app.MapGet("/", () => $"✅ Calculator gRPC Server running on http://localhost:{port}");
+
+                Console.WriteLine($"✅ Calculator gRPC Server running on http://localhost:{port}");
+                app.Run();
+            }));
+        }
+
+        Console.WriteLine("🚀 All 3 Calculator Servers started!");
+        Console.WriteLine("Press ENTER to stop all servers...");
+        Console.ReadLine();
+    }
 }
-
-// Select actual port
-int selectedPort = choice switch
-{
-    1 => 5001,
-    2 => 5002,
-    3 => 5003,
-    _ => 5001
-};
-
-// Add only the selected URL
-app.Urls.Clear();
-app.Urls.Add($"http://localhost:{selectedPort}");
-
-Console.WriteLine($"✅ Calculator gRPC Server running on http://localhost:{selectedPort}");
-app.Run();
