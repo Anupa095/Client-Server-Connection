@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ApiGateway.Controllers.GatewayControllerDBIT230010",
+    "Method": "GetSummaryDBIT230010",
+    "RelativePath": "gateway/summary/{eventId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

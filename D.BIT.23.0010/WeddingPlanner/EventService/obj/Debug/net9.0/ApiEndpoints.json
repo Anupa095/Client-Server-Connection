@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "EventService.Controllers.EventsControllerDBIT230010",
+    "Method": "CreateEvent",
+    "RelativePath": "events",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ev",
+        "Type": "EventService.Models.EventDBIT230010",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventService.Controllers.EventsControllerDBIT230010",
+    "Method": "GetEvent",
+    "RelativePath": "events/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

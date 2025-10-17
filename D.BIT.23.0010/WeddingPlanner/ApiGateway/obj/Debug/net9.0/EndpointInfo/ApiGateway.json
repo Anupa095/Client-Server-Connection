@@ -1,0 +1,33 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "ApiGateway",
+    "version": "1.0"
+  },
+  "paths": {
+    "/gateway/summary/{eventId}": {
+      "get": {
+        "tags": [
+          "GatewayControllerDBIT230010"
+        ],
+        "parameters": [
+          {
+            "name": "eventId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "TaskService.Controllers.TasksControllerDBIT230010",
+    "Method": "AddTaskDBIT230010",
+    "RelativePath": "tasks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "TaskService.Models.TaskDBIT230010",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskService.Controllers.TasksControllerDBIT230010",
+    "Method": "GetTasksByEventDBIT230010",
+    "RelativePath": "tasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskService.Controllers.TasksControllerDBIT230010",
+    "Method": "GetTaskDBIT230010",
+    "RelativePath": "tasks/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

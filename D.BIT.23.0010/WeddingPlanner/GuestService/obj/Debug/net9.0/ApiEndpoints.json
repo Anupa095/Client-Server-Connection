@@ -1,0 +1,71 @@
+[
+  {
+    "ContainingType": "GuestService.Controllers.GuestsControllerDBIT230010",
+    "Method": "AddGuestDBIT230010",
+    "RelativePath": "guests",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "guest",
+        "Type": "GuestService.Model.GuestDBIT230010",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GuestService.Controllers.GuestsControllerDBIT230010",
+    "Method": "GetGuestsDBIT230010",
+    "RelativePath": "guests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GuestService.Controllers.GuestsControllerDBIT230010",
+    "Method": "UpdateGuestDBIT230010",
+    "RelativePath": "guests/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedGuest",
+        "Type": "GuestService.Model.GuestDBIT230010",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GuestService.Controllers.GuestsControllerDBIT230010",
+    "Method": "DeleteGuestDBIT230010",
+    "RelativePath": "guests/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

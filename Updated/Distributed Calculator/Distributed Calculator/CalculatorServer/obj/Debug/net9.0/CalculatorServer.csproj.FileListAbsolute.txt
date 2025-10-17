@@ -1,0 +1,154 @@
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\appsettings.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.staticwebassets.endpoints.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.exe
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.deps.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.runtimeconfig.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.pdb
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.AspNetCore.Server.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.Net.ClientFactory.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Shared.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Shared.pdb
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\scopedcss\bundle\CalculatorServer.styles.css
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\Calculat.C1339795.Up2Date
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\refint\CalculatorServer.dll
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.pdb
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\ref\CalculatorServer.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\appsettings.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.staticwebassets.endpoints.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.exe
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.deps.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.runtimeconfig.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.pdb
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.AspNetCore.Server.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.Net.ClientFactory.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Shared.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Shared.pdb
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.csproj.AssemblyReference.cache
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.AssemblyInfoInputs.cache
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.AssemblyInfo.cs
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.csproj.CoreCompileInputs.cache
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\scopedcss\bundle\CalculatorServer.styles.css
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\Calculat.C1339795.Up2Date
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\refint\CalculatorServer.dll
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.pdb
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.genruntimeconfig.cache
+C:\Users\Anupa\Downloads\Telegram Desktop\Distributed Calculator\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\ref\CalculatorServer.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\appsettings.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\CalculatorServer.staticwebassets.endpoints.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\CalculatorServer.exe
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\CalculatorServer.deps.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\CalculatorServer.runtimeconfig.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\CalculatorServer.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\CalculatorServer.pdb
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\Grpc.AspNetCore.Server.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\Grpc.Net.ClientFactory.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\Shared.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\bin\Debug\net9.0\Shared.pdb
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\CalculatorServer.csproj.AssemblyReference.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\CalculatorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\CalculatorServer.AssemblyInfoInputs.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\CalculatorServer.AssemblyInfo.cs
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\CalculatorServer.csproj.CoreCompileInputs.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\CalculatorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\CalculatorServer.sourcelink.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\scopedcss\bundle\CalculatorServer.styles.css
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\Calculat.C1339795.Up2Date
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\CalculatorServer.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\refint\CalculatorServer.dll
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\CalculatorServer.pdb
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\CalculatorServer.genruntimeconfig.cache
+C:\Users\Anupa\Desktop\Client Server Connection\Distributed Calculator\calculatorserver\obj\Debug\net9.0\ref\CalculatorServer.dll
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\appsettings.json
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.staticwebassets.endpoints.json
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.exe
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.deps.json
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.runtimeconfig.json
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.dll
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\CalculatorServer.pdb
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.AspNetCore.Server.dll
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.Net.ClientFactory.dll
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Shared.dll
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\bin\Debug\net9.0\Shared.pdb
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.csproj.AssemblyReference.cache
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.AssemblyInfoInputs.cache
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.AssemblyInfo.cs
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.csproj.CoreCompileInputs.cache
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\scopedcss\bundle\CalculatorServer.styles.css
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets\msbuild.CalculatorServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets\msbuild.CalculatorServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets\msbuild.build.CalculatorServer.props
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.CalculatorServer.props
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.CalculatorServer.props
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\Calculat.C1339795.Up2Date
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.dll
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\refint\CalculatorServer.dll
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.pdb
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\CalculatorServer.genruntimeconfig.cache
+C:\Users\piumi\Desktop\New folder (7)\Distributed Calculator\CalculatorServer\obj\Debug\net9.0\ref\CalculatorServer.dll

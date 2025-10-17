@@ -9,7 +9,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        var ports = new[] { 5001, 5002, 5003 };
+        var ports = new[] { 5001, /*5002, */5003 };
         var tasks = new List<Task>();
 
         foreach (var port in ports)
